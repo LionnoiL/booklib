@@ -1,4 +1,4 @@
-package ua.gaponov.book.contollers;
+package ua.gaponov.book.contoller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
